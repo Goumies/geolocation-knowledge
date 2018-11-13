@@ -1,0 +1,12 @@
+#map {
+    height: 100%;
+    /* Always set the map height explicitly to define the size of the div
+     * element that contains the map.
+     * because empty divs have their height set to 0*/
+}
+html, body {
+    /* Optional: Makes the sample page fill the window. */
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}

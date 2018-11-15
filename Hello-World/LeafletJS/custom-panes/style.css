@@ -1,5 +1,6 @@
 #mapid {
-    height: 80vh;
+    width: 600px;
+    height: 400px;
     /* Always set the map height explicitly to define the size of the div
      * element that contains the map.
      * because empty divs have their height set to 0*/
